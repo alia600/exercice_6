@@ -41,5 +41,6 @@
 }
 
 .classe_image_carousel{
-	background-color: gray;
+    background-color: gray;
+    border:0.2em black solid;
 }
