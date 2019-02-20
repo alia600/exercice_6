@@ -12,10 +12,18 @@
  Text Domain:  twenty-nineteen-enfant
 */
 
+
+/*exemple du prof*/
 .site-branding .site-title{
 	font-size: 4em;
 }
 
 .site-branding .site-description{
 	font-size: 1em;
+}
+
+/*Mes classes*/
+.classe_liste_couleur{
+	border: 0.1em black dotted;
+ list-style-type: lower-alpha
 }
