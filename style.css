@@ -20,6 +20,9 @@
 
 .site-branding .site-description{
 	font-size: 1em;
+	opacity: 0.7;
+	background-color:blue;
+	border-radius: 50px;
 }
 
 /*Mes classes*/
